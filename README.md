@@ -1,6 +1,7 @@
 # snakelike-game-MIPS-Assembly
 
 Snake-like game built using MARS for MIPS Assembly. This game is part of my **Digital Systems** module (1st year Computer Science module)
+
 MARS IDE Available [here](https://courses.missouristate.edu/kenvollmar/mars/index.htm)
 
 The game has two gamemodes:
