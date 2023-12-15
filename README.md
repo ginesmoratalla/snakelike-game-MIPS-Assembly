@@ -24,4 +24,6 @@ More on how to run and play the game avalable on the code documentation comments
 
 ## 3. How to run
 Game is run using the MARS IDE as explained above. Both gamemodes start from their respective '**keyboard_polling.asm**' files.
-This repo provides with a .jar file for MARS IDE
+This repo provides with a .jar file for MARS IDE.
+
+Specific instructions as to how to start playing are provided in the code comments.
